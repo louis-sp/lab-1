@@ -1,2 +1,1 @@
-# www.onlyfans.com/louistangweijie/
-# Welcome to ET0735 - Introduction to Only and Fans
+# Welcome to ET0735 - Introduction to Git and Github
